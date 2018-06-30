@@ -1,0 +1,7 @@
+com\dreknar\logowanie\Connector.class
+com\dreknar\logowanie\model\Activity.class
+com\dreknar\logowanie\Logout.class
+com\dreknar\logowanie\DeleteActivity.class
+com\dreknar\logowanie\Login.class
+com\dreknar\logowanie\Register.class
+com\dreknar\logowanie\NewActivity.class
