@@ -1,0 +1,10 @@
+1. Realizujemy proces o nazwie Logowanie i wylogowywanie siê z systemu (wykorzystujemy JSP, JDBC, JSTL, Servlety)
+2. Rysujemy do tego diagram przypadków uzycia oraz diagram czynnoœci np. za pomoc¹ aplikacji WhiteStarUML.
+3. Rysujemy diagram ER (zwi¹zków encji) np. w SQLDeveloper z Oracle. 
+4. Logowanie ma zawieraæ takie elementy jak: zliczanie iloœci niepoprawnych logowañ i blokowanie logowania na pewien czas, ustawienie numerów IP z których mo¿emy siê dostaæ do systemu, rejestrowanie ostatnich n-hase³, aby nie móc powtórzyæ ¿adnego z nich. Weryfikacja loginu przez pocztê elektroniczn¹ lub SMS (mo¿e to byæ zrealizowane jak symulacja na stronie). Potwierdzenie zmiany has³a przez pocztê elektroniczn¹ lub SMS. Rejestracja czasu logowania i wylogowywania siê z systemu. Dodatkowo po zalogowaniu powinna pojawiæ siê tabelka z wszystkimi czynnoœciami danego zalogowanego uzytkownika, któ¹ mo¿na w razie potrzeby wy³¹czyæ.
+- opcjonalnie
+5. Wykorzystujemy do realizacji, budowy i wdra¿ania projektu MAVEN i EGIT (docelowo na sieci GITHUB lub BITBUCKET), ³¹cznie z zamieszczeniem opisu aplikacji na stronie (MAVEN) 
+6. Wygl¹d graficzny nie ma znaczenia. Dla chêtnych mo¿na u¿yæ CSS w celu poprawy wygl¹du strony. Mo¿na wykorzystaæ tak¿e JavaScript, AJAX) 
+
+
+7. Za pomoc¹ procedury przechowywanej logika logowania
